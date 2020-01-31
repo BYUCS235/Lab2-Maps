@@ -225,8 +225,3 @@ Trump.txt and Nephi_Trump.txt are provided, but you could find cooler ones. For 
 could collect a bunch of poems by Robert Frost into a .txt file, and then run your algorithm to see
 what kinds of poems you could generate. When you submit the code to Canvas, include a discussion of what you did.
 
-# Summary for Handing in the Code
-You should submit your c9.io user id on Canvas so that the TA can run through parts 1-6 in order for any input file, and
-produce the expected output.
-
-
