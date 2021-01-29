@@ -1,4 +1,4 @@
-# Lab3-Maps
+# Maps Lab
 Maps and Sets
 
 ## Purpose
